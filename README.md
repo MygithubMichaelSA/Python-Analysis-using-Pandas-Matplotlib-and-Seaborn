@@ -2,7 +2,7 @@
 Python Data Analysis:
 Data set = 'student.csv' (attached in this repository).
 Only Pandas library was used in this part of the analysis.
-This is where Exploratory Data Analysis was applied to produce different queries on the data set.
+This is where Data Analysis was applied to produce different queries on the data set.
 
 Python Data Visualisation:
 Data set = 'GDP (nominal) per Capital' (attached in this repository), [Data Source](https://www.kaggle.com/datasets/rajkumarpandey02/gdp-in-usd-per-capita-income-by-country).
